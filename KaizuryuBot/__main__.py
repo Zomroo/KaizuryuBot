@@ -100,7 +100,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="Sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardBotton(text="Updates", url=f"https://t.me/nishimiya_shoukobot_3"),
+        InlineKeyboardButton(text="Updates", url=f"https://t.me/nishimiya_shoukobot_3"),
     ],
     [
         InlineKeyboardButton(text="Oᴡɴᴇʀ", url=f"tg://user?id={OWNER_ID}"),
