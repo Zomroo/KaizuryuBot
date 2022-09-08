@@ -100,12 +100,12 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="Sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="Updates", url=f"https://t.me/nishimiya_shoukobot_3"),
+        InlineKeyboardButton(text="Updates", url=f"https://t.me/sasuke_uchiha_bot_channel"),
     ],
     [
         InlineKeyboardButton(text="Oᴡɴᴇʀ", url=f"tg://user?id={OWNER_ID}"),
         InlineKeyboardButton(
-            text="Sᴏᴜʀᴄᴇ", url=f"https://github.com/RimuruDemonlord/KaizuryuBot"
+            text="Sᴏᴜʀᴄᴇ", url=f"https://t.me/sasuke_16_99"
         ),
     ],
 ]
