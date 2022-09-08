@@ -11,9 +11,7 @@ from KaizuryuBot import telethn as tbot, SUPPORT_CHAT, OWNER_USERNAME, dispatche
 from KaizuryuBot import ALIVE_PIC_URL
 
 
-PHOTO = ALIVE_PIC_URL
-
-
+PHOTO = "https://telegra.ph/file/bd1b8bc2766659018e30a.mp4"
 @register(pattern=("/alive"))
 async def awake(event):
     TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ {dispatcher.bot.first_name}**\n━━━━━━━━━━━━━━━━━━━\n\n"
